@@ -1,0 +1,4 @@
+# Text Editing Application
+# Understanding of Stack data structure
+# No external dependencies required
+# Works with Python 3.x standard libraries
