@@ -4,7 +4,7 @@ This repo contains a simple project of stack data structure implementing an undo
 
 ---
 
-## Features
+## Features 
 
 - Make changes to document state
 - Undo last change
