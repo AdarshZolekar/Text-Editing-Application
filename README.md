@@ -1,4 +1,4 @@
-## Text Editing Application 
+## Text Editing Application
 
 This repo contains a simple project of stack data structure implementing an undo/redo text editor and a CLI in Python.
 
